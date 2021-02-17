@@ -1,72 +1,78 @@
-# goatzoneResourcePack
+# GoatZone Resource Pack
 
-names are not case sensetive
-rename item on anvil (books too)
-tiles list:
+# Names are not case sensetive
 
-boat p1
-boat p2
-chrysanthemum r4 p1
-chrysanthemum r4 p2
-jasmine w3 p1
-jasmine w3 p2
-knotweed p1
-knotweed p2
-lily w4 p1
-lily w4 p2
-orchid p1
-orchid p2
-rhododendron r5 p1
-rhododendron r5 p2
-rock p1
-rock p2
-rose r3 p1
-rose r3 p2
-wheel p1
-wheel p2
-white jade w5 p1
-white jade w5 p2
-white lotus p1
-white lotus p2
+## Tiles list:
+Item|Name
+--- | ---
+paper|boat p1
+paper|boat p2
+paper|chrysanthemum r4 p1
+paper|chrysanthemum r4 p2
+paper|jasmine w3 p1
+paper|jasmine w3 p2
+paper|knotweed p1
+paper|knotweed p2
+paper|lily w4 p1
+paper|lily w4 p2
+paper|orchid p1
+paper|orchid p2
+paper|rhododendron r5 p1
+paper|rhododendron r5 p2
+paper|rock p1
+paper|rock p2
+paper|rose r3 p1
+paper|rose r3 p2
+paper|wheel p1
+paper|wheel p2
+paper|white jade w5 p1
+paper|white jade w5 p2
+paper|white lotus p1
+paper|white lotus p2
 
-Weapons:
+## Weapons:
+Item|Name
+--- | ---
+Netherite sword|Sokka's Sword
+Iron Sword|War fan
+Netherite sword|Kyoshi Fan
+Wooden sword|Air Sword
 
-Sokka's Sword
-War fan
-Kyoshi Fan
-Air Sword
+## Scrolls(sign a book and after that add the name of a scroll on the anvil):
+Item|Name
+--- | ---
+Book|Chi Scroll
+Book|Water scroll
+Book|Air scroll
+Book|earth scroll
+Book|Fire scroll
+Book|simple Scroll
+Book|avatar scroll
+Book|blood scroll
+Book|combustion scroll
+Book|lava scroll
+Book|lightning scroll
+Book|metal scroll
+Book|sand scroll
+Book|sound scroll
+Book|spirit scroll
 
-Scrolls(sign a book and after that add the name of a scroll on the anvil):
+## Probending armor
+Item|Name
+--- | ---
+Leather cap|ProBending e helmet
+Leather cap|ProBending f helmet
+Leather cap|ProBending w helmet
+---|---
+Leather Tunic|ProBending w top
+Leather Tunic|ProBending f top
+Leather Tunic|ProBending e top
+---|---
+Leather pants|ProBending pants
+Leather boots|ProBending boots
 
-Chi Scroll
-Water scroll
-Air scroll
-earth scroll
-Fire scroll
-simple Scroll
-avatar scroll
-blood scroll
-combustion scroll
-lava scroll
-lightning scroll
-metal scroll
-sand scroll
-sound scroll
-spirit scroll
+## Trophies
 
-Probending armor(leather armor)
-
-ProBending e helmet
-ProBending f helmet
-ProBending w helmet
-
-ProBending w top
-ProBending f top
-ProBending e top
-
-ProBending pants
-ProBending boots
-
-Trophies(emerald)
-
-1st Tournament Trophy
+Item|Name
+--- | ---
+Emerald|1st Tournament Trophy

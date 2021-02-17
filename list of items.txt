@@ -35,6 +35,7 @@ Kyoshi Fan
 Air Sword
 
 Scrolls(sign a book and after that add the name of a scroll on the anvil):
+
 Chi Scroll
 Water scroll
 Air scroll
